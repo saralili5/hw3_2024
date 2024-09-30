@@ -143,8 +143,6 @@ first div in the grid  and place it in the grid. */
   background-image: url("/images/header.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  /* background-size: cover; */
-  /* background-position: center; */
 }
 
 /* Steps 6 and 7: Write the selector/rule properties to add place the next elements in the next
@@ -189,7 +187,6 @@ first div in the grid  and place it in the grid. */
   text-align: center;
   align-items: center;
   justify-content: center;
-  padding: 30px;
 }
 
 /* Add your media query here */
